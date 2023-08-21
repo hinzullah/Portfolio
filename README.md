@@ -1,6 +1,6 @@
 <h2 align="center">
   Portfolio Website<br/>
-  <a href="https://sukrutrahane.netlify.app/" target="_blank">sukrutrahane</a>
+  <a href="https://portfolio-zeta-azure-13.vercel.app/" target="_blank">Kamol</a>
 </h2>
 <div align="center">
   <img alt="Demo" src="./Images/home.png />

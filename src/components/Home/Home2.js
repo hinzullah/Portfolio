@@ -19,16 +19,20 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I am fluent in classics like
+              I'm Oduola Kamol, 
               <i>
-                <b className="purple"> ReactJS and Typescript. </b>
+                <b className="purple"> Enthusiastic junior developer with a passion for turning code into meaningful solutions. Believes in technology's positive impact on the world. </b>
               </i>
               <br />
               <br />
-              I debug more than I code.
+                  <b>🚀 Coding Journey:</b>
+                  Hooked on coding since the first "Hello, World!" program. Constantly learning and adapting to new programming languages, frameworks, and challenges.<br />
               <br />
-              <br />
-              My pronouns are <i><b>Jack of All Trades / Master of none</b></i>
+              <b>Skills and Collaboration:</b>
+              Proficient in relevant technologies. Thrives in collaborative environments, values knowledge exchange, and contributes actively to projects.<br/> <br />
+
+              <b>Continuous Learning:</b>
+              Sees software development as a continuous learning process. Actively seeks new knowledge through online courses, coding communities, and tech meetups.
             </p>
           </Col>
           <Col md={4} className="myAvtar">
@@ -41,7 +45,7 @@ function Home2() {
           <Col md={12} className="home-about-social">
             <h1>FIND ME ON</h1>
             <p>
-              Feel free to <span className="purple">connect </span>with me
+              I'm always exited to <span className="purple">connect </span>with peers, mentors, and industry professionals. Open to discussing tech trends, collaborating on projects, and sharing coding humor.
             </p>
             <ul className="home-about-social-links">
               <li className="social-icons">
