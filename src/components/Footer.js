@@ -17,13 +17,13 @@ function Footer() {
           
         </Col>
         <Col md="4" className="footer-copywright">
-          <h3>Copyright © {year} Sukrut Rahane</h3>
+          <h3>Copyright © {year} Oduola Kamol</h3>
         </Col>
         <Col md="4" className="footer-body">
           <ul className="footer-icons">
             <li className="social-icons">
               <a
-                href="https://github.com/sukrutrahane"
+                href="https://github.com/hinzullah"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
@@ -33,7 +33,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="https://twitter.com/sukrutrahane"
+                href="https://twitter.com/alh_bn_murtadho"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
@@ -43,7 +43,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="https://www.linkedin.com/in/sukrutrahane/"
+                href="https://www.linkedin.com/in/oduola-kamol-8987931a9//"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
@@ -53,7 +53,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="https://www.instagram.com/sukrutrahane"
+                href="https://www.instagram.com/proffessoraugur/"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"

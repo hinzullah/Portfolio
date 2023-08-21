@@ -21,7 +21,7 @@ function Home2() {
             <p className="home-about-body">
               I am fluent in classics like
               <i>
-                <b className="purple"> C++ and Python. </b>
+                <b className="purple"> ReactJS and Typescript. </b>
               </i>
               <br />
               <br />
@@ -46,7 +46,7 @@ function Home2() {
             <ul className="home-about-social-links">
               <li className="social-icons">
                 <a
-                  href="https://github.com/sukrutrahane"
+                  href="https://github.com/hinzullah"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -56,7 +56,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://twitter.com/sukrutrahane"
+                  href="https://twitter.com/alh_bn_murtadho"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -66,7 +66,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.linkedin.com/in/sukrutrahane/"
+                  href="https://www.linkedin.com/in/oduola-kamol-8987931a9/"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -76,7 +76,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.instagram.com/sukkkrut"
+                  href="https://www.instagram.com/proffessoraugur/"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour home-social-icons"
