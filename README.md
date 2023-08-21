@@ -3,7 +3,7 @@
   <a href="https://portfolio-zeta-azure-13.vercel.app/" target="_blank">Kamol</a>
 </h2>
 <div align="center">
-  <img alt="Demo" src="./Images/home.png />
+  <img alt="Demo" src="./Images/home.png/>
 </div>
 
 <br/>
