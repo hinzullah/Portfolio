@@ -1,10 +1,13 @@
 import React from "react";
 import { Col, Row } from "react-bootstrap";
- import { SiTailwindcss } from 'react-icons/si'
+ import { SiTailwindcss, SiSolidity, SiNestjs, SiTypescript, SiAngularjs } from 'react-icons/si'
 import {
   DiJavascript1,
   DiReact,
   DiGit,
+  DiSass,
+  DiLinux,
+  
 } from "react-icons/di";
 
 function Techstack() {
@@ -22,10 +25,27 @@ function Techstack() {
       </Col>
       
       <Col xs={4} md={2} className="tech-icons">
-        <DiGit />
+        <DiLinux />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiSolidity />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiNestjs />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiTypescript />
       </Col>
       
-      
+      <Col xs={4} md={2} className="tech-icons">
+        <DiGit />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <DiSass />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiAngularjs />
+      </Col>
     </Row>
     
   );

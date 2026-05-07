@@ -1,11 +1,11 @@
 import React, { useState } from "react";
 import { Col, Row, Container } from "react-bootstrap";
 import lilies from "../Assets/lilies.png";
-import note from "../Assets/pj2.webp";
-import generator from "../Assets/pj3.jpeg";
-import divciprince from "../Assets/divcprince.png";
+import medic from "../Assets/medic-AI.png";
+import lagosHomes from "../Assets/lagoshomes.png";
+import Rental from "../Assets/Car rent.png";
 import ecommerce from "../Assets/ecommerce.webp";
-import weather from "../Assets/weather.png";
+import kitchen from "../Assets/chuks.png";
 
 function Projects() {
   const [hoveredProject, setHoveredProject] = useState(null);
@@ -13,45 +13,45 @@ function Projects() {
   const projects = [
     {
       id: 1,
-      name: "Divciprice Campaign Website",
-      image: divciprince,
-      link: "https://divciprince.vercel.app//",
-      description: "A modern campaign website with engaging content"
+      name: "LagosHomes",
+      image: lagosHomes,
+      link: "https://lagos-homes-pkw4.vercel.app/",
+      description: "Lagos #1 Property Platform - Find Your Perfect Home in Lagos"
     },
     {
       id: 2,
+      name: "Car Rental Service",
+      image: Rental,
+      link: "https://car-hiring.vercel.app/",
+      description: "A modern car rental service platform"
+    },
+    {
+      id: 3,
       name: "Lilies Food App",
       image: lilies,
       link: "https://lillies-two.vercel.app/",
       description: "Food ordering application with seamless user experience"
     },
     {
-      id: 3,
-      name: "Notebook App",
-      image: note,
-      link: "https://react-note-app-puce.vercel.app/",
-      description: "Note-taking application built with React"
-    },
-    {
       id: 4,
-      name: "Shadow Generator",
-      image: generator,
-      link: "https://box-shadow-generator-phi.vercel.app/",
-      description: "CSS box-shadow generator tool for developers"
+      name: "Medic-AI Chatbot",
+      image: medic,
+      link: "https://medic-ai-bot-production.up.railway.app/",
+      description: "AI-powered chatbot for medical inquiries"
     },
     {
-      id: 5,
-      name: "E-commerce App",
+      id: 6,
+      name: "Atelia E-Commerce",
       image: ecommerce,
       link: "https://ecommerce-beige-nu.vercel.app/",
       description: "Full-featured e-commerce platform"
     },
     {
-      id: 6,
-      name: "Weather App",
-      image: weather,
-      link: "https://weather-checker-rose.vercel.app/",
-      description: "Real-time weather information application"
+      id: 7,
+      name: "Food Kitchen",
+      image: kitchen,
+      link: "https://chucks-kitchen-project-1.vercel.app/",
+      description: "Food ordering application with real-time tracking"
     }
   ];
 

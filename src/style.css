@@ -451,7 +451,12 @@ button:focus {
   background-image: var(--section-background-color) !important;
   color: white !important;
 }
-
+.profile-img {
+  width: 300px;        
+  height: 300px;
+  border-radius: 50%;  
+  object-fit: cover;   
+}
 .tech-icons {
   font-size: 4.5em !important;
   margin: 15px !important;
